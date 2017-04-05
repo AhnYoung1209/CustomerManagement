@@ -2,9 +2,14 @@ package Demo;
 
 import cn.itcast.commons.CommonUtils;
 import cn.itcast.jdbc.TxQueryRunner;
+import com.mysql.jdbc.Connection;
 import dao.CustomerDao;
 import domain.Customer;
 import org.apache.commons.dbutils.QueryRunner;
+
+import java.sql.DriverManager;
+
+import static com.oracle.jrockit.jfr.DataType.UTF8;
 
 /**
  * Created by codingBoy on 16/10/23.
