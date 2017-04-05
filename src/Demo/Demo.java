@@ -12,8 +12,7 @@ import java.sql.DriverManager;
 import static com.oracle.jrockit.jfr.DataType.UTF8;
 
 /**
- * Created by codingBoy on 16/10/23.
- * This is a test from Joy Ann. 2017/04/05
+ * Created by Joy Ann on 17/04/05.
  */
 public class Demo
 {

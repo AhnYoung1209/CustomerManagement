@@ -11,8 +11,8 @@
           <element id="library" level="project" name="lib" />
         </element>
       </element>
-      <element id="javaee-facet-resources" facet="CustomerManagement/web/Web2" />
       <element id="javaee-facet-resources" facet="CustomerManagement/web/Web" />
+      <element id="javaee-facet-resources" facet="CustomerManagement/web/Web2" />
     </root>
   </artifact>
 </component>
